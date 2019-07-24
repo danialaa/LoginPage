@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="title">Hi!</string>
+    <string name="subtitle">Login to continue</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="or">or</string>
+    <string name="forgot">Forgot?</string>
+    <string name="username">Username</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="admin">Admin</string>
+    <string name="invalid">Invalid Login</string>
+    <string name="required">Username and Password Fields are Required</string>
+    <string name="okay">Okay</string>
+    <string name="emoji">emoji</string>
+</resources>

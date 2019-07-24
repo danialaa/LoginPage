@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headline">58sp</dimen>
+    <dimen name="subtitle">28sp</dimen>
+    <dimen name="textboxes">20sp</dimen>
+    <dimen name="textboxWidth">280sp</dimen>
+</resources>
